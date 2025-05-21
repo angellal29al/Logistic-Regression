@@ -7,7 +7,6 @@ This project aims to apply a **classification algorithm (Logistic Regression)** 
 
 ## 📊 Dataset Description
 
-- **Source**: UCI Machine Learning Repository — Banknote Authentication Dataset.
 - **Observations**: 1,372 instances.
 - **Features**:
   - `V` – Variance of Wavelet Transformed image (continuous)
